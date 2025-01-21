@@ -1,0 +1,7 @@
+Age,Gender,BMI,HealthRiskScore,ExerciseCapacity,DietaryPreference
+25,Male,22.5,30,High
+35,Female,24.1,45,Moderate
+45,Male,26.3,60,Low
+55,Female,28.7,75,Low
+30,Male,23.1,35,High
+40,Female,25.8,50,Moderate
