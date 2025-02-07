@@ -1,5 +1,4 @@
-🏥 HealthAlign 
-An AI-Powered Health Planner
+🏥 HealthAlign - AI-Powered Health Planner
 HealthAlign is an AI-driven health assistant that generates personalized 7-day meal and workout plans based on chronic health conditions. It uses machine learning models, including a nearest neighbor approach on a custom dataset of 10,000 entries, to assess health risks and suggest tailored recommendations.
 
 Features:
