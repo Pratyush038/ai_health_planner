@@ -11,7 +11,7 @@ Installation:
 git clone https://github.com/Pratyush038/ai_health_planner.git  
 cd ai_health_planner  
 pip install -r requirements.txt  
-streamlit run main.py   
+streamlit run app.py   
 
 Dataset Requirements
 A CSV file with columns: Age, Gender, BMI, HealthRiskScore, ExerciseCapacity.
